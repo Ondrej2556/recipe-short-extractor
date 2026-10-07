@@ -131,3 +131,8 @@ GEMINI_FALLBACK_MODEL=gemini-3.5-flash-lite
 ## 📄 License
 
 This project is licensed under the MIT License.
+
+## Photos
+<img width="1004" height="1105" alt="image" src="https://github.com/user-attachments/assets/74921400-89ad-488c-9c85-e9d76b499c01" />
+<img width="924" height="934" alt="image" src="https://github.com/user-attachments/assets/e3996601-1684-4b22-a2f1-fb3fb134ce68" />
+
